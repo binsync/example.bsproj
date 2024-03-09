@@ -1,7 +1,7 @@
 [metadata]
 addr = 0x71d
 size = 0xb8
-last_change = 2024-03-09T19:13:01.483176Z
+last_change = 2024-03-09T19:13:07.415665Z
 
 [header]
 last_change = 2024-03-09T19:12:49.041058Z
@@ -14,4 +14,12 @@ offset = -24
 name = "buf"
 type = "int[4]"
 size = 0x10
+addr = 0x71d
+
+[stack_vars.-0x2c]
+last_change = 2024-03-09T19:13:07.415665Z
+offset = -44
+name = "flippy_end"
+type = "int"
+size = 0x4
 addr = 0x71d
