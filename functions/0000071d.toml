@@ -1,9 +1,17 @@
 [metadata]
 addr = 0x71d
 size = 0xb8
-last_change = 2024-03-09T19:02:37.936713Z
+last_change = 2024-03-09T19:03:45.458860Z
 
 [header]
 last_change = 2024-03-09T19:02:37.936713Z
 name = "mahaloz_main"
+addr = 0x71d
+
+[stack_vars.-0x28]
+last_change = 2024-03-09T19:03:45.458860Z
+offset = -40
+name = "special_var"
+type = "char[16]"
+size = 0x10
 addr = 0x71d
