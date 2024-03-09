@@ -1,9 +1,17 @@
 [metadata]
 addr = 0x664
 size = 0x89
-last_change = 2024-03-09T19:23:30.153395Z
+last_change = 2024-03-09T19:23:38.850658Z
 
 [header]
 last_change = 2024-03-09T19:23:30.153395Z
 name = "fish_thenticate"
+addr = 0x664
+
+[stack_vars.-0x18]
+last_change = 2024-03-09T19:23:38.850658Z
+offset = -24
+name = "fish_buff"
+type = "char[12]"
+size = 0xc
 addr = 0x664
