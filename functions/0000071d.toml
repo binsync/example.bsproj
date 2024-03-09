@@ -1,10 +1,10 @@
 [metadata]
 addr = 0x71d
 size = 0xb8
-last_change = 2024-03-09T19:04:44.031993Z
+last_change = 2024-03-09T19:04:49.741899Z
 
 [header]
-last_change = 2024-03-09T19:04:44.031993Z
+last_change = 2024-03-09T19:04:49.741899Z
 name = "mahaloz_main"
 addr = 0x71d
 
@@ -28,5 +28,6 @@ size = 0x8
 
 [header.args.2]
 offset = 0x2
+name = "my_arg3"
 type = "int **"
 size = 0x8
