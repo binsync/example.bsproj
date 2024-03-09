@@ -1,10 +1,10 @@
 [metadata]
 addr = 0x71d
 size = 0xb8
-last_change = 2024-03-09T19:03:56.084798Z
+last_change = 2024-03-09T19:04:26.400605Z
 
 [header]
-last_change = 2024-03-09T19:02:37.936713Z
+last_change = 2024-03-09T19:04:26.400605Z
 name = "mahaloz_main"
 addr = 0x71d
 
@@ -15,3 +15,8 @@ name = "special_var"
 type = "mahaloz_struct"
 size = 0x10
 addr = 0x71d
+
+[header.args.0]
+offset = 0x0
+name = "my_arg1"
+size = 0x4
