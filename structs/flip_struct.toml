@@ -1,6 +1,10 @@
 [metadata]
 name = "flip_struct"
-size = 0x0
-last_change = 2024-03-09T19:14:24.967323Z
+size = 0x1
+last_change = 2024-03-09T19:14:26.426431Z
 
-[members]
+[members.0x0]
+name = "field_0"
+offset = 0x0
+type = ""
+size = 0x1
