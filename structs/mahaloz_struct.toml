@@ -1,7 +1,7 @@
 [metadata]
 name = "mahaloz_struct"
-size = 0xc
-last_change = 2024-03-09T19:03:07.341653Z
+size = 0xd
+last_change = 2024-03-09T19:03:08.428457Z
 
 [members.0x0]
 name = "field_0"
@@ -20,3 +20,9 @@ name = "field_8"
 offset = 0x8
 type = ""
 size = 0x4
+
+[members.0xc]
+name = "field_C"
+offset = 0xc
+type = ""
+size = 0x1
