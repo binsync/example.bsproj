@@ -1,0 +1,9 @@
+[metadata]
+addr = 0x6ed
+size = 0x10
+last_change = 2024-03-09T19:19:50.842659Z
+
+[header]
+last_change = 2024-03-09T19:19:50.842659Z
+addr = 0x6ed
+type = "int"
