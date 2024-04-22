@@ -1,10 +1,11 @@
 [metadata]
 addr = 0x71d
 size = 0xb8
+last_change = 2024-04-22T17:41:52.914867Z
 
 [header]
-last_change = 2024-03-09T19:04:57.431741Z
-name = "mahaloz_main"
+last_change = 2024-04-22T17:41:52.914867Z
+name = "funcmain"
 addr = 0x71d
 type = "char"
 
