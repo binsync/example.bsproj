@@ -1,4 +1,4 @@
-last_change = 2024-03-09T19:06:10.527526Z
+last_change = 2024-09-29T22:38:59.112817Z
 addr = 0x71d
 size = 0xb8
 name = "mahaloz_main"
@@ -24,6 +24,13 @@ offset = -24
 name = "username"
 type = "char[16]"
 size = 0x10
+addr = 0x71d
+
+[stack_vars.-0x2c]
+last_change = 2024-09-29T22:38:59.112817Z
+offset = -44
+type = "my_int"
+size = 0x4
 addr = 0x71d
 
 [header.args.0x0]
