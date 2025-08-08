@@ -1,6 +1,7 @@
 last_change = 2024-10-04T20:46:35.178938Z
 name = "__va_list_tag"
 size = 0x18
+artifact_type = "Struct"
 
 [members.0x0]
 name = "gp_offset"

@@ -1,6 +1,7 @@
 last_change = 2024-03-09T19:03:22.582747Z
 name = "mahaloz_struct"
 size = 0x10
+artifact_type = "Struct"
 
 [members.0x0]
 name = "s1"
