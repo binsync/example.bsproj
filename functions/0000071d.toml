@@ -30,6 +30,7 @@ addr = 0x71d
 [stack_vars.-0x2c]
 last_change = 2024-09-29T22:38:59.112817Z
 offset = -44
+name = "frq_var"
 type = "my_int"
 size = 0x4
 addr = 0x71d
