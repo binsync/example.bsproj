@@ -4,7 +4,7 @@ An example BinSync project for testing and validation
 ## BinSync Project Format
 A BinSync project is a directory (folder) that is a Git project and conatins at least 2 things:
 1. a `binsync/root` branch
-2. a `binay_hash`: a md5 hash of the thing you are reversing (in that root branch)
+2. a `binary_hash`: a md5 hash of the thing you are reversing (in that root branch)
 
 After this every branch starting with `binsync/` is a User branch containg user artifact changes.
 Each branch layout will look something like this depending on what the user has worked on:
