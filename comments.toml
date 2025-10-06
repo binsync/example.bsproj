@@ -15,3 +15,9 @@ addr = 0x76f
 func_addr = 0x71d
 comment = "<--- password is read here\n"
 decompiled = true
+
+[0x7b3]
+addr = 0x7b3
+func_addr = 0x71d
+comment = "auth here\n"
+decompiled = true
