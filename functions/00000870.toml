@@ -1,0 +1,11 @@
+last_change = 2025-10-06T09:45:26.797191Z
+addr = 0x870
+size = 0x2
+name = "fini"
+
+[header]
+last_change = 2025-10-06T09:45:26.797191Z
+name = "fini"
+addr = 0x870
+
+[header.args]
